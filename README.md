@@ -42,7 +42,7 @@ Once the meaning of each of the words found, the second problem is to determine 
 
  
 
-Nhu Vuong Mavier &  Théo Isambourg .
+Nhu Vuong Mavier &  Théo Isambourg 
 
 
  
